@@ -43,3 +43,5 @@ function playMove(board, player, column, row) {
 }
 
 export { PLAYER1, PLAYER2, createBoard, playMove };
+
+
